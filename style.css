@@ -201,7 +201,7 @@ footer{
     };
 }
 
-@media all and (max-width:768px){
+@media all and (max-width:450px){
     .nav_links{
       position: absolute;
       right: 0px;
